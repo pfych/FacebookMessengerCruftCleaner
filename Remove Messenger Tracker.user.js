@@ -4,7 +4,7 @@
 // @version      1.5
 // @homepage     https://greasyfork.org/en/scripts/33387-remove-messenger-tracker
 // @updateURL    https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/raw/master/Remove%20Messenger%20Tracker.user.js
-// @description  Remove bullshit from messenger links
+// @description  https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/
 // @author       Puffycheeses
 // @match        *://www.messenger.com/*
 // @grant        none
