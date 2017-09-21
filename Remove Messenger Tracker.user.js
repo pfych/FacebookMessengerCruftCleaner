@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove Messenger Tracker
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.0
 // @homepage     https://greasyfork.org/en/scripts/33387-remove-messenger-tracker
 // @updateURL    https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/raw/master/Remove%20Messenger%20Tracker.user.js
 // @description  https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/
