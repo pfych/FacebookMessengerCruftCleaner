@@ -2,9 +2,9 @@
 // @name         Remove Messenger Tracker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @homepage     https://greasyfork.org/en/scripts/33387-remove-messenger-tracker
+// @homepage     https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/
 // @updateURL    https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/raw/master/Remove%20Messenger%20Tracker.user.js
-// @description  https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/
+// @description  Removes annoying Facebook Tracker
 // @author       Puffycheeses
 // @match        *://www.messenger.com/*
 // @grant        none
