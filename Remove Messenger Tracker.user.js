@@ -22,7 +22,7 @@ setInterval(function(){
     if(i < links.length) {
         if(link.href.includes('https://l.messenger.com/l.php?u=')){
             var rep = link.href;
-            var ret = rep.replace("https://l.messenger.com/l.php?u=", "").replace(/%3A/g, ":").replace(/%2F/g, "/");
+            var ret = rep.replace("https://l.messenger.com/l.php?u=", "").replace(/%3A/g, ":").replace(/%2F/g, "/").replace(/%3F/g, "?").replace(/%3D/g, "=");
             var rek = ret.substring(0, ret.indexOf('&h='));
             //console.log(rek); //For displaying the found links
             link.href = rek;
