@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @homepage     https://greasyfork.org/en/scripts/33387-remove-messenger-tracker
-// @updateURL    https://greasyfork.org/scripts/33387-remove-messenger-tracker/code/Remove%20Messenger%20Tracker.user.js
+// @updateURL    https://github.com/Puffycheeses/TamperMonkeyMessengerCleaner/raw/master/Remove%20Messenger%20Tracker.user.js
 // @description  Remove bullshit from messenger links
 // @author       Puffycheeses
 // @match        *://www.messenger.com/*
