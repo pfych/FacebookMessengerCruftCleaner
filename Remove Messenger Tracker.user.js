@@ -26,6 +26,7 @@ setInterval(function(){
             var rek = ret.substring(0, ret.indexOf('&h='));
             //console.log(rek); //For displaying the found links
             link.href = rek;
+            link.setAttribute("rel", "noreferrer noopener");
             //cleaned += 1; //For displaying how many links were found
         }
     }
